@@ -1,0 +1,17 @@
+{
+  "name": "proyecto2ev_bruno",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Bruno Melendez Gomez",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^35.0.1",
+    "puppeteer": "^24.4.0"
+  }
+}
