@@ -1,3 +1,4 @@
+
 # Proyecto: Pokédex Electrónica
 
 Este proyecto es una aplicación de escritorio desarrollada con **Electron** que permite a los usuarios buscar información detallada sobre Pokémon utilizando su nombre o número de Pokédex.
@@ -24,16 +25,19 @@ La aplicación proporciona las siguientes funcionalidades principales:
 ### Instalación
 1. Clonar este repositorio en su máquina local:
    ```bash
-   git clone https://github.com/usuario/pokedex-electron.git
+   git clone https://github.com/Mr1000bruno/pokedex_Bruno_2EV.git
 
 
 2. Instalar las dependencias necesarias:
+    ```bash
     npm install
 ### Ejecución
 1. Inicia la aplicación con el siguiente comando
+    ```bash
     npm start
 
 2. La ventana principal de la aplicación se abrirá automáticamente.
+
 
 ## Autoevaluación
 
